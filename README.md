@@ -1,6 +1,6 @@
 # William Lim
 
-**Full-stack developer — I ship web and mobile products end to end.**
+**Full-stack developer. I ship web and mobile products end to end.**
 Next.js · TypeScript · React Native · Python & automation. Ex-Product Manager [@GCash](https://www.gcash.com), where I helped build a licensed e-wallet used at national scale. Now building my own products and taking on client work in web apps, mobile apps, and data automation.
 
 Based in San Francisco, CA · Open to select freelance and full-time work.
@@ -9,16 +9,16 @@ Based in San Francisco, CA · Open to select freelance and full-time work.
 
 ### What I build
 
-**[Nabbee](https://nabbee.app)** — a booking platform for service businesses (web + iOS).
+**[Nabbee](https://nabbee.app)**: a booking platform for service businesses (web + iOS).
 Next.js, React Native (Expo), Postgres, Stripe. Appointment scheduling, payments, and store management across two markets.
 
-**[SpellCollector](https://spellcollector.com)** — a trading-card marketplace and collection manager.
+**[SpellCollector](https://spellcollector.com)**: a trading-card marketplace and collection manager.
 Full-stack Next.js/TypeScript with an admin center, wishlists, and a themed storefront.
 
 **[WordPress demo sites](https://williamwkl.github.io/wkl-wp-demos/)**: four demo sites for fictional businesses, each with a link that opens the real WordPress admin.
 A block-theme tour company with online booking, an Elementor law firm site with a documented speed fix, a WooCommerce coffee store with a bundle builder, and a searchable directory that imports from Google Sheets. Mobile Lighthouse 98 to 100 on every page, accessibility tested. Includes a [sample WordPress health check report](https://williamwkl.github.io/wkl-wp-demos/health-check/). [Code](https://github.com/williamwkl/wkl-wp-demos).
 
-**Data & automation tools** — I turn messy reports into clean, automatic Excel/Sheets systems: dashboards, payroll and dispatch workbooks, and report-to-import pipelines. Formula-driven, no macros, built to be used by non-technical teams.
+**Data & automation tools**: I turn messy reports into clean, automatic Excel/Sheets systems: dashboards, payroll and dispatch workbooks, and report-to-import pipelines. Formula-driven, no macros, built to be used by non-technical teams.
 
 ---
 
@@ -47,4 +47,4 @@ Most of my work lives in private repositories (client and product code), so my p
 
 ### Let's connect
 
-Open to select freelance and full-time work. Reach out through my website — [wkllabs.com](https://wkllabs.com).
+Open to select freelance and full-time work. Reach out through my website, [wkllabs.com](https://wkllabs.com).
