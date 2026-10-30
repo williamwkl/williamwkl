@@ -5,6 +5,8 @@ Next.js · TypeScript · React Native · Python & automation. Ex-Product Manager
 
 Based in San Francisco, CA · Open to select freelance and full-time work.
 
+**Featured:** [WordPress demos](https://williamwkl.github.io/wkl-wp-demos/) · [Nabbee case study](https://github.com/williamwkl/nabbee) · [wkllabs.com](https://wkllabs.com)
+
 ---
 
 ### What I build
