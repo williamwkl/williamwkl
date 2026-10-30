@@ -15,6 +15,9 @@ Next.js, React Native (Expo), Postgres, Stripe. Appointment scheduling, payments
 **[SpellCollector](https://spellcollector.com)** — a trading-card marketplace and collection manager.
 Full-stack Next.js/TypeScript with an admin center, wishlists, and a themed storefront.
 
+**[WordPress demo sites](https://williamwkl.github.io/wkl-wp-demos/)**: four demo sites for fictional businesses, each with a link that opens the real WordPress admin.
+A block-theme tour company with online booking, an Elementor law firm site with a documented speed fix, a WooCommerce coffee store with a bundle builder, and a searchable directory that imports from Google Sheets. Mobile Lighthouse 98 to 100 on every page, accessibility tested. Includes a [sample WordPress health check report](https://williamwkl.github.io/wkl-wp-demos/health-check/). [Code](https://github.com/williamwkl/wkl-wp-demos).
+
 **Data & automation tools** — I turn messy reports into clean, automatic Excel/Sheets systems: dashboards, payroll and dispatch workbooks, and report-to-import pipelines. Formula-driven, no macros, built to be used by non-technical teams.
 
 ---
@@ -26,6 +29,7 @@ Full-stack Next.js/TypeScript with an admin center, wishlists, and a themed stor
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
