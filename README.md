@@ -17,6 +17,9 @@ Next.js, React Native (Expo), Postgres, Stripe. Appointment scheduling, payments
 **[SpellCollector](https://spellcollector.com)**: a trading-card marketplace and collection manager.
 Full-stack Next.js/TypeScript with an admin center, wishlists, and a themed storefront.
 
+**Cat Nap Café**: a cozy logic puzzle game for iPhone, coming soon to the App Store.
+Place one sleepy cat per row, column and rug, then spend coins decorating a café. Capacitor, JavaScript, AdMob rewarded ads, daily puzzles with streaks.
+
 **[WordPress demo sites](https://williamwkl.github.io/wkl-wp-demos/)**: four demo sites for fictional businesses, each with a link that opens the real WordPress admin.
 A block-theme tour company with online booking, an Elementor law firm site with a documented speed fix, a WooCommerce coffee store with a bundle builder, and a searchable directory that imports from Google Sheets. Mobile Lighthouse 98 to 100 on every page, accessibility tested. Includes a [sample WordPress health check report](https://williamwkl.github.io/wkl-wp-demos/health-check/). [Code](https://github.com/williamwkl/wkl-wp-demos).
 
